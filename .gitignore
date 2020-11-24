@@ -2,3 +2,5 @@
 
 # dependencies
 /fetchjson/node_modules
+/maps/node_modules
+/maps/.cache
